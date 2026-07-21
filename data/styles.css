@@ -101,6 +101,11 @@
 }
 .snapshot {
 }
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
 ._表单提示 {
   color:#999999;
 }
@@ -114,6 +119,10 @@
 }
 .line {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -124,10 +133,10 @@
   color:#7F7F7F;
   text-align:left;
 }
-.form_hint {
+.form_hint1 {
   color:#999999;
 }
-.form_disabled {
+.form_disabled1 {
 }
 .box_2 {
 }
@@ -135,5 +144,11 @@
   font-size:12px;
   color:#7F7F7F;
   text-align:left;
+}
+.text_area1 {
+  font-size:12px;
+  color:#7F7F7F;
+  text-align:left;
+  line-height:22px;
 }
 textarea, select, input, button, div, svg { outline: none; }
