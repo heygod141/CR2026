@@ -6998,3 +6998,41 @@
 }
 #u9972.hint.disabled {
 }
+#u9973_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border-radius:3px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-size:12px;
+}
+#u9973 {
+  border-width:0px;
+  position:absolute;
+  left:1795px;
+  top:151px;
+  width:100px;
+  height:30px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+  font-size:12px;
+}
+#u9973 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9973_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
