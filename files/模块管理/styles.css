@@ -1754,14 +1754,18 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:123px;
+  width:67px;
   height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
   filter:drop-shadow(none);
   transition:none;
+  font-family:"Inter", sans-serif;
+  font-weight:400;
+  font-style:normal;
   font-size:12px;
+  color:#3F3F46;
   line-height:12px;
 }
 #u15711 {
@@ -1769,12 +1773,16 @@
   position:absolute;
   left:478px;
   top:313px;
-  width:123px;
+  width:67px;
   height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
+  font-family:"Inter", sans-serif;
+  font-weight:400;
+  font-style:normal;
   font-size:12px;
+  color:#3F3F46;
   line-height:12px;
 }
 #u15711 .text {
