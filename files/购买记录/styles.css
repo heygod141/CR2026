@@ -65,7 +65,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-radius:40px;
   filter:drop-shadow(none);
   transition:none;
@@ -318,8 +318,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:72px;
-  height:18px;
+  width:128px;
+  height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -334,8 +334,8 @@
   position:absolute;
   left:254px;
   top:105px;
-  width:72px;
-  height:18px;
+  width:128px;
+  height:37px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -345,7 +345,7 @@
 }
 #u14631 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -367,7 +367,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-radius:10px;
   filter:drop-shadow(none);
   transition:none;
@@ -426,7 +426,7 @@
 }
 #u14633 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -441,8 +441,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:64px;
-  height:18px;
+  width:113px;
+  height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -454,15 +454,15 @@
   position:absolute;
   left:386px;
   top:177px;
-  width:64px;
-  height:18px;
+  width:113px;
+  height:37px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14634 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -580,7 +580,7 @@
 }
 #u14637 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -602,7 +602,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-radius:10px;
   filter:drop-shadow(none);
   transition:none;
@@ -661,7 +661,7 @@
 }
 #u14639 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -676,8 +676,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:64px;
-  height:18px;
+  width:113px;
+  height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -692,8 +692,8 @@
   position:absolute;
   left:386px;
   top:267px;
-  width:64px;
-  height:18px;
+  width:113px;
+  height:37px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -703,7 +703,7 @@
 }
 #u14640 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -743,7 +743,7 @@
 }
 #u14641 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -785,7 +785,7 @@
 }
 #u14642 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -807,7 +807,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-radius:40px;
   filter:drop-shadow(none);
   transition:none;
@@ -1060,8 +1060,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:72px;
-  height:18px;
+  width:128px;
+  height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1076,8 +1076,8 @@
   position:absolute;
   left:754px;
   top:105px;
-  width:72px;
-  height:18px;
+  width:128px;
+  height:37px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -1087,7 +1087,7 @@
 }
 #u14652 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1102,8 +1102,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:14px;
+  width:36px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1115,15 +1115,15 @@
   position:absolute;
   left:610px;
   top:151px;
-  width:42px;
-  height:14px;
+  width:36px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14653 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1165,7 +1165,7 @@
 }
 #u14654 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1180,8 +1180,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:132px;
-  height:14px;
+  width:113px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1193,15 +1193,15 @@
   position:absolute;
   left:720px;
   top:151px;
-  width:132px;
-  height:14px;
+  width:113px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14655 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1216,8 +1216,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:51px;
-  height:14px;
+  width:44px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1229,15 +1229,15 @@
   position:absolute;
   left:610px;
   top:185px;
-  width:51px;
-  height:14px;
+  width:44px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14656 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1252,8 +1252,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1265,15 +1265,15 @@
   position:absolute;
   left:720px;
   top:185px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14657 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1288,8 +1288,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1301,15 +1301,15 @@
   position:absolute;
   left:610px;
   top:219px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14658 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1324,8 +1324,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:30px;
-  height:14px;
+  width:26px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1337,15 +1337,15 @@
   position:absolute;
   left:720px;
   top:219px;
-  width:30px;
-  height:14px;
+  width:26px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14659 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1360,8 +1360,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1373,15 +1373,15 @@
   position:absolute;
   left:610px;
   top:253px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14660 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1396,8 +1396,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:84px;
-  height:14px;
+  width:72px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1409,15 +1409,15 @@
   position:absolute;
   left:720px;
   top:253px;
-  width:84px;
-  height:14px;
+  width:72px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14661 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1432,8 +1432,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1445,15 +1445,15 @@
   position:absolute;
   left:610px;
   top:287px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14662 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1468,8 +1468,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:71px;
-  height:14px;
+  width:61px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1481,15 +1481,15 @@
   position:absolute;
   left:720px;
   top:287px;
-  width:71px;
-  height:14px;
+  width:61px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14663 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1504,8 +1504,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1517,15 +1517,15 @@
   position:absolute;
   left:610px;
   top:321px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14664 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1540,8 +1540,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
-  height:14px;
+  width:114px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1553,15 +1553,15 @@
   position:absolute;
   left:720px;
   top:321px;
-  width:133px;
-  height:14px;
+  width:114px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14665 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1576,8 +1576,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:14px;
+  width:36px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1589,15 +1589,15 @@
   position:absolute;
   left:610px;
   top:355px;
-  width:42px;
-  height:14px;
+  width:36px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14666 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1612,8 +1612,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:14px;
-  height:14px;
+  width:12px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1625,15 +1625,15 @@
   position:absolute;
   left:720px;
   top:355px;
-  width:14px;
-  height:14px;
+  width:12px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14667 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1648,8 +1648,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1661,15 +1661,15 @@
   position:absolute;
   left:610px;
   top:389px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14668 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1684,8 +1684,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:14px;
+  width:36px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1697,15 +1697,15 @@
   position:absolute;
   left:720px;
   top:389px;
-  width:42px;
-  height:14px;
+  width:36px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14669 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1720,8 +1720,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1733,15 +1733,15 @@
   position:absolute;
   left:610px;
   top:423px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14670 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1756,8 +1756,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1769,15 +1769,15 @@
   position:absolute;
   left:720px;
   top:423px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14671 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1792,8 +1792,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:84px;
-  height:14px;
+  width:72px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1805,15 +1805,15 @@
   position:absolute;
   left:610px;
   top:457px;
-  width:84px;
-  height:14px;
+  width:72px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14672 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1828,8 +1828,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:130px;
-  height:14px;
+  width:112px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1841,15 +1841,15 @@
   position:absolute;
   left:720px;
   top:457px;
-  width:130px;
-  height:14px;
+  width:112px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14673 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1864,8 +1864,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1877,15 +1877,15 @@
   position:absolute;
   left:610px;
   top:491px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14674 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1900,8 +1900,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:25px;
-  height:14px;
+  width:21px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1913,15 +1913,15 @@
   position:absolute;
   left:720px;
   top:491px;
-  width:25px;
-  height:14px;
+  width:21px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14675 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1967,7 +1967,7 @@
 }
 #u14676 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -1982,8 +1982,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:126px;
-  height:18px;
+  width:224px;
+  height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -1998,8 +1998,8 @@
   position:absolute;
   left:1080px;
   top:104px;
-  width:126px;
-  height:18px;
+  width:224px;
+  height:37px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -2009,7 +2009,7 @@
 }
 #u14677 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2024,7 +2024,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:273px;
+  width:234px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2038,7 +2038,7 @@
   position:absolute;
   left:1184px;
   top:194px;
-  width:273px;
+  width:234px;
   height:22px;
   display:flex;
   transition:none;
@@ -2047,7 +2047,7 @@
 }
 #u14678 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2062,8 +2062,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:357px;
-  height:14px;
+  width:306px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -2078,8 +2078,8 @@
   position:absolute;
   left:1142px;
   top:160px;
-  width:357px;
-  height:14px;
+  width:306px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -2089,7 +2089,7 @@
 }
 #u14679 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2104,8 +2104,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -2120,8 +2120,8 @@
   position:absolute;
   left:1080px;
   top:262px;
-  width:28px;
-  height:14px;
+  width:24px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -2131,7 +2131,7 @@
 }
 #u14680 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2146,8 +2146,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:154px;
-  height:14px;
+  width:132px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -2159,15 +2159,15 @@
   position:absolute;
   left:1080px;
   top:286px;
-  width:154px;
-  height:14px;
+  width:132px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14681 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2182,8 +2182,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:70px;
-  height:14px;
+  width:60px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -2195,15 +2195,15 @@
   position:absolute;
   left:1079px;
   top:320px;
-  width:70px;
-  height:14px;
+  width:60px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
 #u14682 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;

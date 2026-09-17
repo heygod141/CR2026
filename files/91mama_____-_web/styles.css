@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:static;
-  left:auto;
+  position:relative;
+  left:-0px;
   width:1200px;
-  margin-left:0;
-  margin-right:0;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 .form_sketch {
@@ -28,7 +28,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-radius:0px;
   filter:drop-shadow(none);
   transition:none;
@@ -133,7 +133,7 @@
 }
 #u16662 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -173,7 +173,7 @@
 }
 #u16663 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -188,8 +188,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:310px;
-  height:14px;
+  width:266px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -200,10 +200,10 @@
 #u16664 {
   border-width:0px;
   position:absolute;
-  left:445px;
+  left:467px;
   top:203px;
-  width:310px;
-  height:14px;
+  width:266px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -211,7 +211,7 @@
 }
 #u16664 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -966,7 +966,7 @@
 }
 #u16684 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;

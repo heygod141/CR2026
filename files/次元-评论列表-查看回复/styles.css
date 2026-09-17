@@ -245,7 +245,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-left:0px;
   border-top:0px;
   border-right:0px;
@@ -1841,7 +1841,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-left:0px;
   border-top:0px;
   border-right:0px;
@@ -1887,7 +1887,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-left:0px;
   border-top:0px;
   border-right:0px;
@@ -1933,7 +1933,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-radius:2px;
   filter:drop-shadow(none);
   transition:none;
@@ -2140,7 +2140,7 @@
 }
 #u10125 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2312,7 +2312,7 @@
 }
 #u10131 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2374,7 +2374,7 @@
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
+  border-color:rgba(121, 121, 121, 1);
   border-radius:2px;
   filter:drop-shadow(none);
   transition:none;
@@ -2439,8 +2439,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border-radius:0px;
@@ -2455,8 +2455,8 @@
   position:absolute;
   left:360px;
   top:235px;
-  width:56px;
-  height:14px;
+  width:48px;
+  height:12px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -2466,7 +2466,7 @@
 }
 #u10135 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
@@ -2514,7 +2514,7 @@
 }
 #u10137 .text {
   position:absolute;
-  align-self:center;
+  align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
