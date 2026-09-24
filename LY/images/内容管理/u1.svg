@@ -2,20 +2,12 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="78px" height="47px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-<<<<<<< HEAD
     <mask fill="white" id="Clip5">
-=======
-    <mask fill="white" id="Clip1">
->>>>>>> b0d573fdccfb1961751949212f3fa369a7540754
       <path d="M 0 47  L 0 0  L 78 0  L 78 47  L 0 47  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -466 -88 )">
     <path d="M 0 47  L 0 0  L 78 0  L 78 47  L 0 47  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 0)" stroke="none" transform="matrix(1 0 0 1 466 88 )" class="fill" />
-<<<<<<< HEAD
     <path d="M 0 47  L 0 0  L 78 0  L 78 47  L 0 47  Z " stroke-width="4" stroke-dasharray="6,2" stroke="rgba(217, 0, 27, 1)" fill="none" transform="matrix(1 0 0 1 466 88 )" class="stroke" mask="url(#Clip5)" />
-=======
-    <path d="M 0 47  L 0 0  L 78 0  L 78 47  L 0 47  Z " stroke-width="4" stroke-dasharray="6,2" stroke="rgba(217, 0, 27, 1)" fill="none" transform="matrix(1 0 0 1 466 88 )" class="stroke" mask="url(#Clip1)" />
->>>>>>> b0d573fdccfb1961751949212f3fa369a7540754
   </g>
 </svg>
